@@ -18,7 +18,7 @@ Laboratorium 02 - Relacje w JPA - stan na 27.03.2026
    oraz brakujące kolumny).
    Określ nullowalność oraz nazwy kolumn. Ustaw relacje tak, aby przynajmniej raz była wykorzystana relacja
    jednostronna (OneToOne)
-   oraz ManyToOne. **Pracujemy nad 4 Encjami User, Trainings, Statistics, HealthMetrics.**
+   oraz ManyToOne. **Pracujemy nad 4 Encjami User, Trainings, Statistics, HealthMetrics. Zaczynamy od tabeli Training**
 
    ![](db_schema.png)
 8. Do projektu dodaj profilu loadInitialData (application properties). Zweryfikuj czy dane testowe w trakcie startu
